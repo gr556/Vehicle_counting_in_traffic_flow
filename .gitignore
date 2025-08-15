@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# Downloaded videos / output files
+downloads/
+output_videos/
+
+# Model weights (very large files)
+yolov4.weights
+yolov5n.pt
+yolov5s.pt
+yolov8n.pt
+
+# IDE files
+.vscode/
+*.code-workspace
